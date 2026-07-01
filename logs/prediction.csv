@@ -8,3 +8,4 @@ timestamp,industry,genre_filter,actor_filter,input_movie,rec_1,rec_2,rec_3,rec_4
 2026-05-10 18:14:54,Hollywood,sciencefiction,All,The Matrix Reloaded,The Matrix Revolutions,The Matrix,Dark City,Blade Runner,A Scanner Darkly,44.8%,27.2%,17.8%,13.0%,11.6%,6.7,8.7,7.6,8.1,7.0,
 2026-05-10 18:17:44,Hollywood,sciencefiction,All,Transcendence,Listening,Her,2001: A Space Odyssey,The Matrix Revolutions,Self/less,14.8%,14.1%,13.5%,12.5%,10.8%,5.6,8.0,8.3,6.7,6.5,
 2026-06-18 02:51:15,Bollywood,biography,All,72 Hours: Martyr Who Never Died,Sam Bahadur,Shershaah,Gunjan Saxena: The Kargil Girl,Punjab '95,Rakshak India's Braves,19.0%,13.3%,11.9%,11.1%,9.5%,7.7,8.3,5.6,N/A,6.0,Gunjan Saxena: The Kargil Girl
+2026-07-01 10:00:49,Bollywood,comedy,All,Aladin,Student of the Year 2,Total Dhamaal,A Flying Jatt,Ajooba,Dishoom,22.1%,16.3%,16.3%,13.4%,13.2%,2.2,4.2,3.1,5.2,5.2,
